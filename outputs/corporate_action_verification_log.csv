@@ -1,0 +1,25 @@
+bank,date,log_return,pct_move,prev_obs,gap_days,season,status,note
+UBA,2008-06-02,-0.4099,-33.6,2008-05-30,3,off-season,UNVERIFIED,
+FIRSTBANK,2008-08-08,-0.2538,-22.4,2008-08-07,1,off-season,UNVERIFIED,
+UBA,2008-12-16,-0.2737,-23.9,2008-12-15,1,off-season,UNVERIFIED,
+GTB,2009-05-06,-0.3066,-26.4,2009-05-05,1,off-season,UNVERIFIED,
+ZENITH,2009-06-05,-0.4058,-33.4,2009-06-04,1,off-season,UNVERIFIED,
+FIRSTBANK,2009-07-20,-0.2282,-20.4,2009-07-17,3,off-season,UNVERIFIED,
+ZENITH,2010-04-14,-0.2477,-21.9,2010-04-13,1,Mar/Apr dividend season,UNVERIFIED,
+GTB,2010-04-20,-0.2561,-22.6,2010-04-19,1,Mar/Apr dividend season,UNVERIFIED,
+UBA,2010-04-26,-0.1891,-17.2,2010-04-23,3,Mar/Apr dividend season,UNVERIFIED,
+FIRSTBANK,2010-05-04,-0.1242,-11.7,2010-04-30,4,off-season,UNVERIFIED,
+GTB,2011-04-07,-0.2619,-23.0,2011-04-06,1,Mar/Apr dividend season,UNVERIFIED,
+UBA,2011-04-27,-0.2294,-20.5,2011-04-21,6,Mar/Apr dividend season,UNVERIFIED,
+UBA,2015-09-10,-0.1416,-13.2,2015-09-09,1,off-season,PENDING,"Off-season, no calendar gap. Possibly the JP Morgan GBI-EM exclusion sell-off — if so this is a REAL move and must be retained."
+ZENITH,2016-03-29,-0.1393,-13.0,2016-03-24,5,Mar/Apr dividend season,CANDIDATE,FY2015 final dividend ex-window
+UBA,2016-03-30,-0.2038,-18.4,2016-03-29,1,Mar/Apr dividend season,CANDIDATE,The outlier I flagged in Module 3; FY2015 final dividend + bonus window
+UBA,2019-04-03,-0.1744,-16.0,2019-04-02,1,Mar/Apr dividend season,CANDIDATE,FY2018 final dividend ex-window
+ZENITH,2020-03-10,-0.2615,-23.0,2020-03-09,1,Mar/Apr dividend season,CONFIRMED,Register of members closed 10 Mar 2020 for the N2.50 FY2019 final dividend
+UBA,2020-03-16,-0.1971,-17.9,2020-03-13,3,Mar/Apr dividend season,CANDIDATE,"FY2019 dividend window, COVID week"
+GTB,2020-03-19,-0.1328,-12.4,2020-03-18,1,Mar/Apr dividend season,CANDIDATE,"FY2019 dividend window, COVID week"
+ZENITH,2021-03-09,-0.1353,-12.7,2021-03-08,1,Mar/Apr dividend season,CANDIDATE,FY2020 final dividend ex-window
+GTB,2022-03-24,-0.1226,-11.5,2022-03-23,1,Mar/Apr dividend season,CANDIDATE,FY2021 final dividend ex-window
+ZENITH,2022-03-28,-0.133,-12.5,2022-03-25,3,Mar/Apr dividend season,CANDIDATE,FY2021 final dividend ex-window
+ZENITH,2023-04-17,-0.1279,-12.0,2023-04-14,3,Mar/Apr dividend season,CANDIDATE,FY2022 final dividend ex-window
+ACCESS,2024-04-12,-0.1534,-14.2,2024-04-08,4,Mar/Apr dividend season,CANDIDATE,FY2023 final dividend ex-window
