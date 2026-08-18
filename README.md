@@ -6,16 +6,7 @@ Samuel Babatunde Folorunsho Ajakaiye | Student Group 16011 | MScFE 690 Capstone 
 
 ## What this project does
 
-This research estimates a time-varying DCC-GARCH interconnectedness network with
-Delta CoVaR edge weights for the five Nigerian domestic systemically important
-banks (D-SIBs) — First Bank, GTBank/GTCO, Zenith, Access, and UBA — and tests a
-fiscal transmission channel linking Brent crude oil prices, monthly Federation
-Account Allocation Committee (FAAC) disbursements, and CBN external reserves to
-banking-system connectedness. Five binary institutional controls (the 2009–2011
-interbank guarantee, AMCON operations, the multi-window FX regime, COVID-19
-forbearance, and the June 2023 FX unification) correct for government
-intervention bias in observable stress signals.
-
+I map a time-varying DCC-GARCH interconnectedness network, with Delta CoVaR supplying the edge weights, across the five(5) Nigerian domestic systemically important banks (D-SIBs);First Bank, GTBank/GTCO, Zenith, Access, and UBA. Onto this network I test a fiscal transmission channel that is my own construction, one that links Brent crude oil prices, monthly Federation Account Allocation Committee (FAAC) disbursements, and CBN external reserves to banking-system connectedness. I must however account for the government's own hand in these stress signals, and I do this with five(5) binary institutional dummies: the year 2009 to year 2011 interbank guarantee, AMCON operations, the multi-window FX regime, COVID-19 forbearance, and the June year 2023 FX unification. Without these controls, what looks like market stress in my data could just as easily be the residue of policy — these five(5) dummies exist to keep that distinction clear
 ## Repository structure
 
 ```
