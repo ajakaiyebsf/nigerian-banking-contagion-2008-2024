@@ -103,7 +103,7 @@ My committed scope, as agreed with my capstone supervisor, comprises: (1) the DC
 The following remain explicitly designated future work, not yet implemented on real data: the bank-level crude-oil loan exposure panel, the parallel-market FX premium early-warning variable, and my remaining three(3) robustness checks (Haver Analytics premium substitution, the formal Chow test writeup, and the maximum entropy bilateral network comparison). A stated limitation follows from the oil-exposure exclusion: without it, common-factor exposure and genuine bilateral contagion cannot yet be fully separated, and I interpret my results accordingly.
 
 **Known data limitations**:
-- NGX equities exhibit thin trading (10–15% zero-return days) and daily price limits (±10%) that censor extreme single-day returns.
+- NGX(Nigeria Stock Exchange) equities exhibit thin trading (10–15% zero-return days) and daily price limits (±10%) that censor extreme single-day returns.
 - CBN reserves has no source ticks for five(5) months (February to June of year 2009); I interpolate linearly across this gap, which falls inside my GFC regime.
 - My FAAC series has no real within-year variation, for the reason stated above under Data-readiness flags; I cannot yet distinguish whether my null Granger-causality result for FAAC is genuine or an artifact of this disaggregation.
 - My Chow test for the June year 2023 unification currently has only twenty (20) post-break observations — low power, not yet a substantive finding either way.
@@ -125,7 +125,7 @@ The following remain explicitly designated future work, not yet implemented on r
 - [x] Robustness Check A (centrality agreement) and Check C (forbearance exclusion)
 - [ ] Parallel market premium collection (future work)
 - [ ] Bank-level oil-exposure panel collection (future work)
-- [ ] Robustness Checks B, D, E
+- [ ] Robustness Checks two(2), three(3), and Five(5)
 - [ ] Final report and presentation
 
 Contact <samuel@teledinamik.com.ng>
