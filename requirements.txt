@@ -1,0 +1,21 @@
+# Python dependencies — Systemic Risk and Financial Contagion in the Nigerian Banking Sector
+#
+# Versions below are the exact set the full pipeline was last verified against:
+# a cold clone plus `pip install -r requirements.txt` runs the notebook top to
+# bottom without error and reproduces every table and figure in the project
+# report. Python 3.11 was used; 3.10 or later is required.
+#
+# openpyxl is needed to read the NGX academic-request workbook (.xlsx) and is
+# not pulled in automatically by pandas.
+
+pandas==3.0.2
+numpy==2.4.4
+scipy==1.17.1
+statsmodels==0.15.0
+arch==8.0.0
+linearmodels==7.0
+hmmlearn==0.3.3
+networkx==3.6.1
+matplotlib==3.10.9
+seaborn==0.13.2
+openpyxl==3.1.5
